@@ -3,8 +3,11 @@
 👥 Team Members:
 
 Asudi Janani(Team Lead)
+
 Ramisetty Maneesha
+
 Gorantla Lavanya
+
 Mekala sravani
 
 📝 Project Description: DocSpot is a user-friendly appointment booking platform designed for seamless interaction between patients and healthcare providers. It allows patients to search for doctors, book appointments in real-time, attend video consultations, and receive digital prescriptions. Doctors can manage their availability, view bookings, and update profiles. An admin panel enables user and appointment monitoring.
@@ -54,9 +57,13 @@ Tested on Chrome, Edge, and Firefox
 Submitted By:
 
 Asudi Janani(Team Lead)
+
 Ramisetty Maneesha
+
 Gorantla Lavanya
+
 Mekala sravani
+
 Submitted Date: 27-06-2025
 
 Course: Full Stack Development (MERN stack) Institution: Rise Krishna Sai Gandhi Group Of Institutions Of Ongole
